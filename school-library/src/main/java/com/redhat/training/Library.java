@@ -54,4 +54,5 @@ class LoanRegistry {
         }
         return count;
     }
+
 }
